@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5f0d88d-36d7-4a0d-9fc1-961a05c95214" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.crawler.shell/nb-configuration.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.crawler.shell/nbactions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web.crawler.shell/web.crawler.shell.iml" beforeDir="false" afterPath="$PROJECT_DIR$/web.crawler.shell/web.crawler.shell.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1b86bagzA9hU0kRRZNBfWi965fZ" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5f0d88d-36d7-4a0d-9fc1-961a05c95214" name="Default Changelist" comment="" />
+      <created>1588001445936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588001445936</updated>
+      <workItem from="1588001453047" duration="685000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="280" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588001994289">
+      <screen x="45" y="27" width="1555" height="873" />
+    </state>
+    <state x="280" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/45.27.1555.873@45.27.1555.873" timestamp="1588001994289" />
+    <state width="1509" height="219" key="GridCell.Tab.0.bottom" timestamp="1588001850733">
+      <screen x="45" y="27" width="1555" height="873" />
+    </state>
+    <state width="1509" height="219" key="GridCell.Tab.0.bottom/45.27.1555.873@45.27.1555.873" timestamp="1588001850733" />
+    <state width="1509" height="219" key="GridCell.Tab.0.center" timestamp="1588001850729">
+      <screen x="45" y="27" width="1555" height="873" />
+    </state>
+    <state width="1509" height="219" key="GridCell.Tab.0.center/45.27.1555.873@45.27.1555.873" timestamp="1588001850729" />
+    <state width="1509" height="219" key="GridCell.Tab.0.left" timestamp="1588001850726">
+      <screen x="45" y="27" width="1555" height="873" />
+    </state>
+    <state width="1509" height="219" key="GridCell.Tab.0.left/45.27.1555.873@45.27.1555.873" timestamp="1588001850726" />
+    <state width="1509" height="219" key="GridCell.Tab.0.right" timestamp="1588001850731">
+      <screen x="45" y="27" width="1555" height="873" />
+    </state>
+    <state width="1509" height="219" key="GridCell.Tab.0.right/45.27.1555.873@45.27.1555.873" timestamp="1588001850731" />
+  </component>
+</project>
